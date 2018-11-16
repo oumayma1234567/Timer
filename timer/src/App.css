@@ -1,0 +1,71 @@
+.App {
+background-image: url("http://iphoneparadise.com/wp-content/uploads/2017/12/restoring-an-iphone-x-backup-to-8-plus-kept-the-awesome-black-dynamic-wallpaper-from-x.jpg" ); 
+background-size: contain;
+background-position: center calc(100% + 10px);
+background-repeat: no-repeat;
+}
+.containertimer{
+  display: flex;
+  width: 600px;
+  padding-top: 150px;
+  margin-left: 266px;
+}
+.styletimer{
+  width: 450px;
+  height: 550px;
+}
+
+.timer {
+  display: flex;
+  font-size: 50px;
+  width: 250px;
+  margin-left: 310px;
+  text-align: center;
+
+}
+.forme{
+  display: flex;
+  flex-direction: column;
+
+}
+.numeric{
+  font-size: 60px;
+  color:white;
+ 
+}
+.name{
+  color:white;
+  font-size: 10px;
+  margin: 0 10px 20px 5px;
+}
+.hour{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.minut{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+ .second{
+   display: flex;
+  flex-wrap: wrap;
+}
+.button{
+  display: flex;
+  justify-content: space-around;
+  width: 250px;
+  margin-left: 550px;
+}
+.start{
+  width: 75px;
+  height: 45px;
+  border-radius: 18px;
+}
+.reset{
+  width: 75px;
+  height: 45px;
+  border-radius: 18px;
+}
+
